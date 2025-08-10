@@ -1,22 +1,45 @@
-# 📚 DSA Assignments – SE IT (Word File Solutions)
+# 📚 Data Structures & Algorithms – SE IT (Word File Solutions)
 
-Welcome!  
-This repository contains my **Second Year (SE)** **Data Structures & Algorithms (DSA)** assignment solutions in **Microsoft Word (.docx)** format.  
-Each file includes:
-- 📄 **Problem Statement**
-- 💻 **Full Source Code**
-- 🖥️ **Sample Output (where applicable)**
-
-This repo is created to help **juniors** and **beginners** understand DSA concepts in a simple and practical way.
+**Savitribai Phule Pune University | SE IT**  
+**GitHub Repo – Practical Assignments for DSA Subject (Word Format)**
 
 ---
 
-## 📂 Assignment List
+## 📌 Overview
 
-> 📌 Click the ▼ arrow to expand details for each assignment.
+This repository contains my **Second Year (SE)** **Data Structures & Algorithms (DSA)** assignment solutions in **Microsoft Word (.docx)** format.  
+Each `.docx` file includes:  
+- 📄 **Problem Statement**  
+- 💻 **Full Source Code**  
+- 🖥️ **Sample Output (where applicable)**  
+
+The aim is to help **juniors** and **beginners** understand DSA concepts in a **clear, structured, and practical** way.
+
+---
+
+## 📁 Repository Structure
+
+```
+📂 Problem 1
+📂 Problem 2
+📂 Problem 3
+📂 Problem 4
+📂 Problem 5
+📂 Problem 6
+📂 Problem 7
+📂 Problem 8
+📂 Problem 9
+📂 Problem 10
+```
+
+Each folder contains the `.docx` file for that assignment.
+
+---
+
+## 🧩 Assignment List
 
 <details>
-<summary><b>1️⃣ Searching and Sorting (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 1 – Searching and Sorting</b></summary>
 
 - Bubble Sort → Sort by Roll Number (Ascending)  
 - Insertion Sort → Sort by Name (Alphabetical)  
@@ -27,7 +50,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>2️⃣ Stack (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 2 – Stack</b></summary>
 
 - Stack using **Singly Linked List (ADT)**  
 - Infix → Postfix conversion  
@@ -38,7 +61,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>3️⃣ Circular Queue (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 3 – Circular Queue</b></summary>
 
 - Enqueue (Insertion)  
 - Dequeue (Deletion)  
@@ -48,7 +71,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>4️⃣ Expression Tree (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 4 – Expression Tree</b></summary>
 
 - Construct Expression Tree from:  
   - Postfix expression  
@@ -60,7 +83,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>5️⃣ Binary Search Tree (BST) (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 5 – Binary Search Tree (BST)</b></summary>
 
 - Insert (Handles duplicates)  
 - Delete  
@@ -76,7 +99,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>6️⃣ Threaded Binary Tree (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 6 – Threaded Binary Tree</b></summary>
 
 - In-order Threaded Binary Tree implementation  
 - Traversal:  
@@ -86,7 +109,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>7️⃣ Graph – Minimum Spanning Tree (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 7 – Graph (Minimum Spanning Tree)</b></summary>
 
 - Represent a Graph (Adjacency List/Matrix)  
   - Nodes → Departments/Institutes  
@@ -98,7 +121,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>8️⃣ Graph – Shortest Path (CO1, CO2, CO3, CO5)</b></summary>
+<summary><b>Problem 8 – Graph (Shortest Path)</b></summary>
 
 - Represent a City Map (Adjacency List/Matrix)  
   - Nodes → Landmarks  
@@ -108,7 +131,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>9️⃣ Heap Sort (CO1, CO2, CO4)</b></summary>
+<summary><b>Problem 9 – Heap Sort</b></summary>
 
 - Heap Sort implementation using:  
   - Max Heap  
@@ -117,7 +140,7 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 </details>
 
 <details>
-<summary><b>🔟 File Handling (CO1, CO3, CO5)</b></summary>
+<summary><b>Problem 10 – File Handling</b></summary>
 
 - Create and maintain **Sequential File** for Student Database containing:  
   - Roll No  
@@ -133,28 +156,32 @@ This repo is created to help **juniors** and **beginners** understand DSA concep
 
 ---
 
-## 🛠️ How to Use
-1. **Clone or Download** the repository:
+## 🔧 Tech Stack
+
+- **Language**: C / C++  
+- **Format**: Microsoft Word (.docx)  
+- **IDE/Editor**: Turbo C++, Dev C++, Code::Blocks  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/DSA-Word-Solutions.git
+   git clone https://github.com/AaryanBairagi/DSA-Word-Solutions.git
+   cd DSA-Word-Solutions
    ```
-2. Navigate to the folder and open the `.docx` file for the topic you need.
-3. Copy the code from the Word file into your IDE/compiler if you want to run it.
-4. Compile and execute as per your environment setup.
+2. Open the `.docx` file inside the relevant `Problem X` folder.  
+3. Copy the code into your IDE/compiler to run it.  
+4. Compile and execute as per your setup.
 
 ---
 
-## 🎯 Purpose of this Repository
-- ✅ Help **SE IT juniors** quickly access assignment solutions.  
-- ✅ Provide **easy-to-understand** and **ready-to-run** examples.  
-- ✅ Keep a digital archive of semester assignments for future reference.  
-- ✅ Share learning resources publicly.  
+## 🎯 Purpose
 
----
-
-## ⚠️ Note
-This repository is for **educational purposes only**.  
-Feel free to use or adapt the solutions, but please give proper credit.  
+- Help **SE IT juniors** quickly access assignment solutions.  
+- Provide **ready-to-run** and **easy-to-understand** code.  
+- Maintain a digital archive for future reference.  
 
 ---
 
@@ -164,5 +191,12 @@ Feel free to **fork this repository** and create a pull request with your improv
 
 ---
 
-### ✨ Made with ❤️ by Aaryan Bairagi  
-> “Helping one student might not change the world, but it could change the world for that one student.”
+## 👨‍💻 Author
+
+**Aaryan Bairagi**  
+SE IT | Savitribai Phule Pune University  
+GitHub: [@AaryanBairagi](https://github.com/AaryanBairagi)  
+
+---
+
+✨ *Made with ❤️ for SE IT Juniors*
