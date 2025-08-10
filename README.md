@@ -1,7 +1,7 @@
-# 📚 DSA Assignments – SEIT (Word File Solutions)
+# 📚 DSA Assignments – SE IT (Word File Solutions)
 
 Welcome!  
-This repository contains my **Second Year (SEIT)** **Data Structures & Algorithms (DSA)** assignment solutions in **Microsoft Word (.docx)** format.  
+This repository contains my **Second Year (SE)** **Data Structures & Algorithms (DSA)** assignment solutions in **Microsoft Word (.docx)** format.  
 Each file includes:
 - 📄 **Problem Statement**
 - 💻 **Full Source Code**
